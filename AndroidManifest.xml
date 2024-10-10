@@ -9,6 +9,7 @@
           <meta-data
             android:name="com.google.android.geo.API_KEY"
             android:value="AIzaSyCzt7OoM8ejKRWIIiFVA9jk5obI1Ny-B3s"/>
+        <activity
             android:name=".MainActivity"
             android:exported="true"
             android:launchMode="singleTop"
